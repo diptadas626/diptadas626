@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Dipta Chandra Das</h1>
-<h3 align="center">A passionate Machine Learning (ML) Engineer from Bangladesh</h3>
+<h3 align="center">Dreaming to be a Machine Learning (ML) Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diptadas626&label=Profile%20views&color=0e75b6&style=flat" alt="diptadas626" /> </p>
